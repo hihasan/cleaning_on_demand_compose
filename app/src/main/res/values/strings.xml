@@ -1,3 +1,3 @@
 <resources>
-    <string name="app_name">Cleaning On Demand</string>
+    <string name="app_name" translatable="false">Cleaning On Demand</string>
 </resources>
